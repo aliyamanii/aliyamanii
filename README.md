@@ -10,4 +10,8 @@ I'm a passionate software engineering student with a strong desire to continuous
       <a href="https://github.com/aliyamanii?tab=repositories">
          <img alt="LinkedIn" title="My LinkedIn Profile" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn%20Profile-blue?style=for-the-badge&logoColor=white&logo=linkedIn"/></a> 
       <a href="https://www.linkedin.com/in/ali-yamani-958218279/">
+         <a href="mailto: aliyamanii@outlook.com">
+         <img alt="Email" title="Email" src="https://custom-icon-badges.demolab.com/badge/-Email-F25278?style=for-the-badge&logo=email&logoColor=white"/></a> 
+      <a href="mailto: aliyamanii@outlook.com">
+         
    </p>
