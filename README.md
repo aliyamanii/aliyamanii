@@ -7,5 +7,7 @@ I'm a passionate software engineering student with a strong desire to continuous
       <a href="https://github.com/aliyamanii?tab=repositories">
          <img alt="Repos" title="My Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=repo"/></a> 
       <a href="https://www.linkedin.com/in/ali-yamani-958218279/">
-         <img alt="LinkedIn" title="LinkedIn Profile" src="https://custom-icon-badges.demolab.com/?logo=linkedinicon"/></a> 
+      <a href="https://github.com/aliyamanii?tab=repositories">
+         <img alt="Repos" title="My Repositories" src="https://custom-icon-badges.demolab.com/badge/-My%20Repos-blue?style=for-the-badge&logoColor=white&logo=icons8-mylikedin"/></a> 
+      <a href="https://www.linkedin.com/in/ali-yamani-958218279/">
    </p>
