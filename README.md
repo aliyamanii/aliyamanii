@@ -14,7 +14,9 @@ I'm a passionate software engineering student with a strong desire to continuous
          <img alt="Email" title="Email" src="https://custom-icon-badges.demolab.com/badge/-Email-F25278?style=for-the-badge&logo=email&logoColor=white"/></a> 
       <a href="mailto: aliyamanii@outlook.com">
    </p>
+         
 ---
+         
 ### 🧰 Languages and Tools
          
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
