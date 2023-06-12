@@ -34,4 +34,4 @@ I'm a passionate software engineering student with a strong desire to continuous
          
 ### 📊 Stats
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliyamanii&show_icons=true&theme=gruvbox)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliyamanii&show_icons=true&theme=synthwave)
